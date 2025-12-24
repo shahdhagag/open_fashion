@@ -1,7 +1,25 @@
 
 
+## 🛍️ Open Fashion App
 
+**Open Fashion** is a Flutter-based e-commerce application inspired by a modern fashion UI design.
+The app focuses on **clean architecture**, **reusable widgets**, and a **smooth checkout experience**.
 
+It demonstrates strong UI skills, navigation handling, and state management suitable for real-world Flutter apps.
+
+---
+
+## ✨ Features
+
+* 🏠 Home screen with featured products
+* 🛒 Product details & cart management
+* ➕➖ Quantity control
+* 📦 Shipping address selection
+* 💳 Payment method selection
+* ✅ Checkout flow
+* 🎉 Payment success dialog
+* ♻️ Reusable and scalable widgets
+* 🎨 Pixel-perfect UI from Figma design
 
 ---
 
@@ -10,8 +28,8 @@
 ### 🏠 Home & Browse
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/93996a65-44a9-4989-a27f-dd04e10ca7a7" width="220"/>
   <img src="https://github.com/user-attachments/assets/c7b8a567-e85b-4acc-bf8a-078ffc953e14" width="220"/>
+  <img src="https://github.com/user-attachments/assets/93996a65-44a9-4989-a27f-dd04e10ca7a7" width="220"/>
   <img src="https://github.com/user-attachments/assets/9c0cab32-867e-4538-a352-c3e8ee2c591a" width="220"/>
   <img src="https://github.com/user-attachments/assets/5839cc51-e282-4714-a566-75d9e9b2bb97" width="220"/>
 </p>
@@ -36,29 +54,6 @@
   <img src="https://github.com/user-attachments/assets/e55acb51-b375-4dfd-8df1-df602d86a89c" width="220"/>
 </p>
 
-
----
-
-## 🛍️ Open Fashion App
-
-**Open Fashion** is a Flutter-based e-commerce application inspired by a modern fashion UI design.
-The app focuses on **clean architecture**, **reusable widgets**, and a **smooth checkout experience**.
-
-It demonstrates strong UI skills, navigation handling, and state management suitable for real-world Flutter apps.
-
----
-
-## ✨ Features
-
-* 🏠 Home screen with featured products
-* 🛒 Product details & cart management
-* ➕➖ Quantity control
-* 📦 Shipping address selection
-* 💳 Payment method selection
-* ✅ Checkout flow
-* 🎉 Payment success dialog
-* ♻️ Reusable and scalable widgets
-* 🎨 Pixel-perfect UI from Figma design
 
 ---
 
@@ -91,5 +86,3 @@ flutter_credit_card: ^4.1.0
 * Implemented with pixel-perfect attention in Flutter
 
 ---
-
-Just tell me — you did an amazing job 👏💙
